@@ -1,12 +1,38 @@
-# React + Vite
+## 💰 Money Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gestión Financiera Personal Full-Stack
 
-Currently, two official plugins are available:
+Una aplicación web completa diseñada para ayudar a los usuarios a llevar un seguimiento de sus finanzas personales, categorizar transacciones y visualizar su gastos e ingresos de manera intuitiva. Desarrollada con un stack moderno de React en el frontend y Spring Boot en el backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Características Principales
 
-## Expanding the ESLint configuration
+- **Dashboard Financiero:** Vista general del balance total, ingresos totales y gastos totales.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Gestión de Ingresos:** Vista detallada con un gráfico de área para rastrear la tendencia de ingresos a lo largo del tiempo.
+
+- **Listado Detallado de Ingresos:** Sección para ver todos los ingresos, incluyendo la opción de Exportar a Excel.
+
+### 💻 Tecnologías Utilizadas
+
+🌐 Frontend (React)
+
+- React
+- React Query	
+- Zustand	
+- Recharts	
+- Tailwind CSS 
+- React Router DOM
+
+
+⚙️ Backend (Spring Boot)
+
+- Spring Boot
+- Spring Security
+- JSON Web Tokens (JWT)	
+- Apache POI	
+- MySQL 
+
+![Pagina de Inicio](/public/images/landing.png)
+![Vista principal del Dashboard](/public/images/example.png)
+![Vista de ingresos](/public/images/incomes.png)
+
