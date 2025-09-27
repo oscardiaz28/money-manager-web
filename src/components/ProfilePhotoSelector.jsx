@@ -20,7 +20,7 @@ export const ProfilePhotoSelector = ({ image, setImage }) => {
     const onChooseFile = () => inputRef.current?.click();
 
     return (
-        <div className='flex items-center justify-center w-full mb-6'>
+        <div className='flex items-center justify-center w-full'>
             <input
             className='hidden' 
             ref={inputRef}

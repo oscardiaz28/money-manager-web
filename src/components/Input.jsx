@@ -10,7 +10,7 @@ export const Input = ({ label, register, errors, placeholder, type }) => {
     }
 
     return (
-        <div className='mb-4'>
+        <div className='mb-1'>
             <label htmlFor="" className='text-slate-800 block mb-1 text-[14px]'>{label}</label>
             <div className='relative'>
 

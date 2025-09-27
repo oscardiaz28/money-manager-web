@@ -15,3 +15,7 @@ body {
     @apply w-full border-1 text-slate-700 border-gray-200 rounded-sm px-3 py-2 focus:outline-0 focus:border-gray-300 
     focus:shadow-md text-sm
 }
+
+.nav-shadow{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
