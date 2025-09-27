@@ -32,7 +32,7 @@ Una aplicación web completa diseñada para ayudar a los usuarios a llevar un se
 - Apache POI	
 - MySQL 
 
-![Pagina de Inicio](/public/images/landing.png)
+![Pagina de Inicio](/public/images/landing.PNG)
 ![Vista principal del Dashboard](/public/images/example.png)
-![Vista de ingresos](/public/images/incomes.png)
+![Vista de ingresos](/public/images/incomes.PNG)
 
